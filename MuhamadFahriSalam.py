@@ -1,3 +1,4 @@
+# Tugas 1
 def nilai():
     number = int(input("Masukkan Nilai: "))
     if number % 2 == 0:
@@ -8,7 +9,7 @@ nilai()
     
 
 
-
+# Tugas 2
 def print_loop():
     special_numbers = [1, 3, 6, 10]
     for i in range(1, 11):
