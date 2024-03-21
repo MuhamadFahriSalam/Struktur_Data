@@ -22,3 +22,8 @@ def print_h_pattern():
         else:
             print('*****')
 print_h_pattern()
+
+
+
+
+
