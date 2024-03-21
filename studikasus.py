@@ -1,4 +1,4 @@
-#Tugas 1
+# Tugas 1
 # def is_prime(num):
 #     if num <= 1:
 #         return False
@@ -16,33 +16,33 @@
     
 
 # Tugas 2
-# num1 = float(input("Masukkan bilangan kedua: "))
-# num2 = float(input("Masukkan bilangan kedua: "))
+# num1 = float(input("Masukkan bilangan pertama: "))
+# num2 = float(input("Masukkan bilangan kedua:"))
 # operator = input("Masukkan operator (+, -, *, /): ")
 
 # if operator == '+':
-#     print("Hasil:", num1 + num2)
+#     print("Hasil: ", num1 + num2)
 # elif operator == '-':
-#     print("Hasil:", num1 - num2)
+#     print("Hasil: ", num1 - num2)
 # elif operator == '*':
-#     print("Hasil:", num1 * num2)
+#     print("Hasil: ", num1 * num2)
 # elif operator == '/':
+#     print("Hasil: ", num1 / num2)
 #     if num2 != 0:
-#         print("Hasil:", num1 / num2)
+#         print("Hasil: ", num1 / num2)
 #     else:
-#         print("Error: Pembagian Nol.")
+#         print("Error: Pembagian dengan nol.")
 # else:
-#     print("operator tidak valid")
+#     print("Operator tidak valid.")
     
  
  #tugas3   
 # num = int(input("Masukkan sebuah bilangan bulat: "))
-# print("Digit-digit dari bilangan", num, "adalah:")
+# print("Digit-Digit dari bilangan", num, "adalah:")
 # while num > 0:
-#     digit = num %  10
+#     digit = num % 10
 #     print(digit)
 #     num = num // 10
-
 
 
 #tugas 4
@@ -54,4 +54,4 @@
 
 # n = int(input("Masukkan jumlah bilangan dalam deret Fibonacci: "))
 # fib_series = fibonacci(n)
-# print("Deret Fibonacci hingga", n, "Bilangan pertama adalah:", ",". join(map(str, fib_series)))
+# print("Deret Fibonacci hingga", n, "bilangan pertama adalah:", ", ".join(map(str, fib_series)))
