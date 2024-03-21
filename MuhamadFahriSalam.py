@@ -1,11 +1,11 @@
-## Request user input
-# number = int(input("Masukkan Nilai: "))
+# Request user input
+number = int(input("Masukkan Nilai: "))
 
-# # Check if the number is even or odd
-# if number % 2 == 0:
-#     print("Adalah Bilangann Genap.")
-# else:
-#     print("Adalah Bilangan Ganjil.")
+# Check if the number is even or odd
+if number % 2 == 0:
+    print("Adalah Bilangann Genap.")
+else:
+    print("Adalah Bilangan Ganjil.")
     
     
 
