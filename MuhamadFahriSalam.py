@@ -1,12 +1,11 @@
-def print_nilai():
-    # Obtain integer input from the user
-    number = int(input("Maukkan Bilangan: "))
-    # Determine if the number is even or odd
-    if number:
-        print("Adalah bilangan genap.")
-    else:
-        print("Adalah bilangan ganjil.")
-print_nilai()
+## Request user input
+# number = int(input("Masukkan Nilai: "))
+
+# # Check if the number is even or odd
+# if number % 2 == 0:
+#     print("Adalah Bilangann Genap.")
+# else:
+#     print("Adalah Bilangan Ganjil.")
     
     
 
