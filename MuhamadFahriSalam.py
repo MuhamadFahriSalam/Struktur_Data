@@ -7,6 +7,8 @@ def nilai():
 nilai()
     
 
+
+
 def print_loop():
     special_numbers = [1, 3, 6, 10]
     for i in range(1, 11):
