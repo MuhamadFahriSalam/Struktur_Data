@@ -2,7 +2,7 @@
 def nilai():
     number = int(input("Masukkan Nilai: "))
     if number % 2 == 0:
-        print("Adalah Bilangann Genap.")
+        print("Adalah Bilangan Genap.")
     else:
         print("Adalah Bilangan Ganjil.")
 nilai()
