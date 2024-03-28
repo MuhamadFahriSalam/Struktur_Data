@@ -12,7 +12,7 @@ def cloth():
         
     elif merk.lower() == 'b':
         if lengan.lower() == 'lengan pendek':
-         print('Harga: Rp 75.000')
+            print('Harga: Rp 75.000')
         elif lengan.lower() == 'lengan panjang':
             print('Harga: Rp 80.000')
         else:
