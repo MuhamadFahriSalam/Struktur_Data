@@ -8,7 +8,6 @@ if merk.lower() == 'a':
         print('Harga: Rp 87.000')
     else:
         print('Barang tidak ditemukan')
-        
 elif merk.lower() == 'b':
     if lengan.lower() == 'lengan pendek':
         print('Harga: Rp 75.000')
@@ -18,5 +17,6 @@ elif merk.lower() == 'b':
         print('Barang tidak ditemukan')
 else:
     print('Barang tidak ditemukan')
+    
     
     
