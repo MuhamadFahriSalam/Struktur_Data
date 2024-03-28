@@ -1,4 +1,4 @@
-merk = input('Masukkan merk: ')
+merk = input('Masukkan Merk: ')
 lengan = input('Masukkan tipe lengan: ')
 
 if merk.lower() == 'a':
