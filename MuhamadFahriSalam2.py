@@ -18,3 +18,5 @@ elif merk.lower() == 'b':
         print('Barang tidak ditemukan')
 else:
     print('Barang tidak ditemukan')
+    
+    
