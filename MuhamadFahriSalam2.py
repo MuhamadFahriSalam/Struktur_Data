@@ -1,6 +1,6 @@
 def cloth():
     merk = input('Masukkan Merk: ')
-    lengan = input('Masukkan tipe lengan: ')
+    lengan = input('Masukkan jenis lengan: ')
 
     if merk.lower() == 'a':
         if lengan.lower() == 'lengan pendek':
