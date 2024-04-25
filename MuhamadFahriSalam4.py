@@ -1,4 +1,4 @@
-# # TUGAS 1
+#TUGAS 1
 def input_nilai():
     # Inisialisasi list kosong untuk menyimpan nama dan nilai
     nama = []
