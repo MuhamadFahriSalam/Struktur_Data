@@ -31,7 +31,7 @@ input_nilai()
 
 
 
-# TUGAs 2
+# TUGAS 2
 def niai_rata_rata():
     # Input jumlah mahasiswa
     jumlah_mahasiswa = int(input("Masukkan jumlah nilai mahasiswa: "))
