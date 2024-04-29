@@ -1,3 +1,4 @@
+# Tugas 1
 from tabulate import tabulate
 
 def input_nilai():
